@@ -5,7 +5,6 @@
   * [Motivation](#motivation)
   * [Installation](#installation)
   * [Directory Tree](#directory-tree)
-  * [Bug / Feature Request](#bug---feature-request)
   * [Future scope of project](#future-scope)
 
 
